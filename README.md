@@ -14,7 +14,8 @@
   - AWS, Azure
 
 ## Web
-- VanillaJS, Markup ( https://kyobobillboard.com )
+- VanillaJS, Markup ( https://kyobobillboard.com ) 
+  - Use costless CDN (bunny.net)
 
 ## Backend
 - SomeCloud AWS EC2 Reselling Service - https://github.com/kookmin-sw/capstone-2021-4/
