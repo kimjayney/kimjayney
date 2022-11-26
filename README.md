@@ -4,6 +4,7 @@
 - Infra
 - Web
 - Backend
+- Raspberry Pi, Arduino
 
 ## Infra
 - Kubernetes
@@ -21,3 +22,9 @@
 - SomeCloud AWS EC2 Reselling Service - https://github.com/kookmin-sw/capstone-2021-4/
   - SQLite
   - each cloud stateless Blue-green deployment using Docker container, Elastic Load Balancer
+
+## Raspberry Pi, Arduino
+- [https://github.com/somacar/somacar/tree/master/communication_control](https://github.com/somacar/somacar/tree/master/communication_control)
+- communication control Interface
+
+ 
