@@ -15,7 +15,7 @@
   - AWS, Azure
 
 ## Web
-- VanillaJS, Markup ( https://kyobobillboard.com ) 
+- 교보생명 광화문글판 VanillaJS, Markup ( https://kyobobillboard.com ) 
   - Use costless CDN (bunny.net)
 
 ## Backend
