@@ -1,4 +1,3 @@
-
 class Stack:
     top = None
     stackvalue = None
@@ -31,13 +30,16 @@ class Stack:
         return len(self.stackvalue)
     def __top__(self):
         return self.top
-    
-s = Stack()
-checkstr = "{([])}"
-for i in checkstr:
-    s.__push__(i)
 
-if len(s.stackvalue) == 0:
-    print("IS VALID")
-else:
-    print("NOT valid ")
+class Solution:
+    def isValid(self, st: str) -> bool:
+        s = Stack()
+        checkstr = st
+        
+        for i in checkstr: 
+            if s.__push__(i) == False:
+                return False
+        if len(s.stackvalue) == 0:
+            return True
+        else:
+            return False
