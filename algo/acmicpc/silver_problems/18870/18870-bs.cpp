@@ -18,7 +18,7 @@ int main() {
         vec2[i] = num;
     }
     
-    unique(vec1.begin(), vec1.end());
+    
     sort(vec1.begin(), vec1.end());
     
     vec1.erase(std::unique(vec1.begin(), vec1.end()), vec1.end());
