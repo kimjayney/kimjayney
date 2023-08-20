@@ -17,7 +17,11 @@
 ## Web
 - 교보생명 광화문글판 VanillaJS, Markup ( https://kyobobillboard.com ) 
   - Use costless CDN (bunny.net)
-
+- e2e location Service (https://jayneycoffee.location.rainclab.net/)
+  - Cloudflare Wrangler backend
+  - Location Sharing
+  - Location Visualization
+- IP Camera customized (https://ipcamera.rainclab.net)
 ## Backend
 - SomeCloud AWS EC2 Reselling Service - https://github.com/kookmin-sw/capstone-2021-4/
   - SQLite
