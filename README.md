@@ -10,6 +10,7 @@
 - Kubernetes
   - On-premise - k3s, MiniKube
   - Cloud - Azure AKS, Amazon EKS
+  - Middleware - Traefik
 - Bash script - ArgoCD, Github Action CI/CD
 - Cloud
   - AWS, Azure
