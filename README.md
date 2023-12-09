@@ -18,9 +18,10 @@
 ## Web
  
 - e2e location Service (https://jayneycoffee.location.rainclab.net/)
-  - Cloudflare Wrangler backend
+  - Cloudflare Wrangler backend : https://github.com/kimjayney/locationbackend-e2e
   - Location Sharing
   - Location Visualization
+  - iOS Client: https://github.com/kimjayney/e2e-location-client-ios
 - IP Camera customized (https://ipcamera.rainclab.net)
 ## Backend
 - SomeCloud AWS EC2 Reselling Service - https://github.com/kookmin-sw/capstone-2021-4/
