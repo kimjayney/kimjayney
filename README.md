@@ -1,5 +1,5 @@
 - qsa@kakao.com
-## e2e location service
+## e2ee location service
 - (https://jayneycoffee.location.rainclab.net/)
 - Cloudflare Wrangler backend : https://github.com/kimjayney/locationbackend-e2e
 - Location Sharing
