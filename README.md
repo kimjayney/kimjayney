@@ -1,4 +1,3 @@
-- qsa@kakao.com
 ## e2ee location service
 - (https://jayneycoffee.location.rainclab.net/)
 - Cloudflare Wrangler backend : https://github.com/kimjayney/locationbackend-e2e
@@ -7,7 +6,6 @@
 - iOS Client: https://github.com/kimjayney/e2e-location-client-ios
 ## SomeCloud 
 - https://github.com/kookmin-sw/capstone-2021-4/
-- SQLite
 - each cloud stateless Blue-green Flask-Application deployment using Docker container, Elastic Load Balancer
 - SSH Private Keypair management
 - Firewall management
