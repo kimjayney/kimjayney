@@ -10,7 +10,7 @@
 - SSH Private Keypair management
 - Firewall management
 - Cloud Information - Outbound Traffic,CPU,Network
-- https://www.acmicpc.net/user/rubyrain
+ 
 ## Infra
 - Kubernetes
   - On-premise - k3s, MiniKube
