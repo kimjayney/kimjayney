@@ -1,3 +1,5 @@
+## Work 
+- Current: Server engineer
 ## 맛집서비스
 - https://mealvisualize.rainclab.net
 - 서초구 강남구 관악구 맛집좀 공유해주세요..
