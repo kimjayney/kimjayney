@@ -1,13 +1,11 @@
 ## Work 
 - Current: Server engineer
 
+## Report vulnerability
+- Reported a personal information vulnerability to KISA based on the web server of a major company and reported personal information stability measures (2023.3)
 
-## 맛집서비스
+## Mealvisualize
 - https://mealvisualize.rainclab.net
-- 서초구 강남구 관악구 맛집좀 공유해주세요..
-
-## 기타 했던것들
-- 모 대기업 웹서버기반 kisa에 개인정보 취약점 제보, 개인정보 안정성조치 관련 신고 (2023.3)
 
 ## e2ee location service
 - (https://jayneycoffee.location.rainclab.net/)
