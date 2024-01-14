@@ -1,9 +1,6 @@
 ## Work 
 - Current: Server engineer
 
-## Report vulnerability
-- Reported a personal information vulnerability to KISA based on the web server of a major company and reported personal information stability measures (2023.3)
-
 ## Mealvisualize
 - https://mealvisualize.rainclab.net
 
