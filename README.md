@@ -4,6 +4,9 @@
 ## Mealvisualize
 - https://mealvisualize.rainclab.net
 
+## ChatOps
+- https://github.com/kimjayney/chatops
+- pfsense Bot for add IP to Alias
 ## e2ee location service
 - (https://jayneycoffee.location.rainclab.net/)
 - Cloudflare Wrangler backend : https://github.com/kimjayney/locationbackend-e2e
